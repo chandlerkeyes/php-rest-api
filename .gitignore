@@ -9,5 +9,5 @@
 /vendor/
 composer.json
 composer.lock
-symfony.lock
+/symfony.lock
 ###< symfony/framework-bundle ###
